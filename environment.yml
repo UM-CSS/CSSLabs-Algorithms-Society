@@ -1,0 +1,11 @@
+name: taxi-environment
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - tqdm
+  - scipy
+  - statsmodels
